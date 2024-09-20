@@ -26,6 +26,6 @@ make
 
 ## Example
 ``` bash
-./Semi_Honest_sender -p 1234 -n 8 -m 8 -t 2
-./Semi_Honest_receiver -p 1234 -n 8 -m 8 -t 2
+./bin/Semi_Honest_sender -p 1234 -n 8 -m 8 -t 2
+./bin/Semi_Honest_receiver -p 1234 -n 8 -m 8 -t 2
 ```
